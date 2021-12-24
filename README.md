@@ -1,4 +1,4 @@
-This fork is primarily intended for assuring long-term compatbility with sadnow's (https://github.com/sadnow) softwares.
+This fork is primarily intended for assuring long-term compatbility with sadnow's (https://github.com/sadnow) projects.
 
 ---
 
